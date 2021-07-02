@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 30a721f5f36234a49aaa633af81db6e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Respawn: {instanceID: 0}
+  - Boulder: {fileID: 5182072724009293657, guid: 56c514d0170965e4d8968d03721a7b94, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
